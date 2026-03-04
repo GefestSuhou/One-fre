@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: aqua;
+    color: rgb(92, 31, 176);
+    padding: 20px;
+}
+
+nav a{
+    color: darkolivegreen;
+    text-decoration: none;
+}
+
+main{
+     padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+
+
+img{
+    width: 400px;
+    margin-left: 400px;
+}
+
+p{
+    font-size: 24px;
+}

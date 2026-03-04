@@ -1,0 +1,15 @@
+.conteiner{
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+video{
+    border-radius: 25px;
+}
+
+audio{
+    width: 80%;
+    margin: 20px;
+}
